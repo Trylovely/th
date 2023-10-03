@@ -1,0 +1,11 @@
+.table-container{
+  max-width: 600px;
+  margin: auto;
+  margin-top: 100px;
+  background: white;
+  padding: 10px;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+}
